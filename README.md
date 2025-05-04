@@ -8,7 +8,7 @@ ___. (う-´)▄︻デ═══一*++
      \/           \//_____/     \/               \/  
 */
 ```
-### ⚡ Trilha-rede nas horas vagas
+### 🥷 Trilha-rede nas horas vagas
 ```text
   ________________________________________
 / Os programadores criam, os hackers usam, \\
