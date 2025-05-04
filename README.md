@@ -1,16 +1,20 @@
-## Hi there 👋
+## /*
+## ___. ( う-´)▄︻デ═══一҉                                            
+## \_ |______________     _________       __ __  ______
+##  | __ \_  __ \__  \   / ___\__  \     |  |  \/  ___/
+##  | \_\ \  | \// __ \_/ /_/  > __ \    |  |  /\___ \ 
+##  |___  /__|  (____  /\___  (____  /   |____//____  >
+##      \/           \//_____/     \/               \/ 
+## 
+## */
 
-<!--
-**bragaus/bragaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Trilha-rede nas horas vagas
+  ________________________________________
+/ Os programadores criam, os hackers usam, \\
+\\ as crianças apenas choram.              /
+  ----------------------------------------
+         \   ^__^ 
+          \  (oo)\_______
+             (__)\       )\/\\
+                 ||----w |
+                 ||     ||
