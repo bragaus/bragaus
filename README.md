@@ -1,3 +1,4 @@
+### 🐧 Se isso se move, compile isso.
 ```text
 /*
 ___. (う-´)▄︻デ═══一*++                                          
