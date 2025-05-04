@@ -20,7 +20,7 @@ ___. (う-´)▄︻デ═══一*++
                  ||----w |
                  ||     ||
 ```
-### 🖥️ Sobre Mim (`$ whoami`)
+### 👨‍💻 Sobre Mim (`$ whoami`)
 ```bash
 $ Name        Matheus Braga Almeida
 $ Uptime      27 years, 60 days, 10 hrs, 13 mins
