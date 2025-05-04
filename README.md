@@ -8,7 +8,7 @@ ___. ( う-´)▄︻デ═══一҉
      \/           \//_____/     \/               \/  
 */
 ```
-### 🐍 Trilha-rede nas horas vagas
+### ⚡ Trilha-rede nas horas vagas
 ```text
   ________________________________________
 / Os programadores criam, os hackers usam, \\
@@ -23,7 +23,7 @@ ___. ( う-´)▄︻デ═══一҉
 ### 🖥️ Sobre Mim (`$ whoami`)
 ```bash
 $ Name        Matheus Braga Almeida
-$ Uptime      27 yes, 60 days, 10 hrs, 13 mins
+$ Uptime      27 years, 60 days, 10 hrs, 13 mins
 $ OS          Gentoo Linux
 $ Editor      Neovim
 $ Passions    programação, hacking, corrida, musculação
