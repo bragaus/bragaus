@@ -11,10 +11,11 @@ ___. (う-´)▄︻デ═══一*++
 ```
 ### 👾 Trilha-rede nas horas vagas
 ```text
-  ________________________________________
-/ Os programadores criam, os hackers usam, \\
-\\ as crianças apenas choram.              /
-  ----------------------------------------
+  ______________________________________
+/       Os matemáticos descobrem,        \\
+| os programadores criam, os hackers usam |
+\\     e as crianças apenas choram       /
+  --------------------------------------
          \   ^__^ 
           \  (oo)\_______
              (__)\       )\/\\
