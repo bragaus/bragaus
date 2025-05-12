@@ -28,4 +28,4 @@ $ Name        Matheus Braga Almeida
 $ Uptime      27 years, 60 days, 10 hrs, 13 mins
 $ OS          Gentoo Linux
 $ Editor      Neovim
-$ Passions    programação, hacking, corrida, musculação
+$ Passions    matemática, programação, hacking, corrida, musculação
