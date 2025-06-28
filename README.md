@@ -30,7 +30,7 @@ $ OS          Gentoo Linux
 $ Editor      Neovim
 $ Passions    matemática, programação, hacking, corrida, musculação
 ```
-### ⛓️ Carteiras
+### ⛓️ Trabalho
 ```text
 ┌────────────────────────────────────────────────┐
 │       ☕ Apoie com um café cripto ☕          │
