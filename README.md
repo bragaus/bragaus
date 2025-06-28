@@ -36,7 +36,5 @@ $ Passions    matemática, programação, hacking, corrida, musculação
 Se algum desses projetos iluminou seu caminho...  
 Me mande um café no blockchain ☕🚀
 
-**Carteira BTC**  
-`14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa`  
-![BTC QR](./btc_qrcode.png)
+**Carteira BTC:** `14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa`
 ---
