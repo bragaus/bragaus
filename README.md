@@ -37,8 +37,8 @@ $ Passions    matemática, programação, hacking, corrida, musculação
 ├────────────────────────────────────────────────┤
 │ se algum desses projetos iluminou seu caminho  │
 │        me mande um café na blockchain          │
-│                                                │
-│          [↓↓↓↓↓] Carteiras [↓↓↓↓↓]             │
+│        ──────────────────────────────          │
+│         [↓↓↓↓↓] Carteiras $₿ [↓↓↓↓↓]           │
 │                                                │  
 │ BTC: 14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa        │
 │ IOTA: 0x63017a130a6afd36193c1ba16644f1ce7a39d320ebb2bc609e4cb6e89989b231 
