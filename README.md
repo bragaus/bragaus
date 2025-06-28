@@ -29,7 +29,8 @@ $ Uptime      27 years, 60 days, 10 hrs, 13 mins
 $ OS          Gentoo Linux
 $ Editor      Neovim
 $ Passions    matemática, programação, hacking, corrida, musculação
-
+```
+---
 ## ☄️ Apoie a Jornada
 
 Se algum desses projetos iluminou seu caminho...  
@@ -38,3 +39,4 @@ Me mande um café no blockchain ☕🚀
 **Carteira BTC**  
 `bc1q7exemplocarteira123456789xyzgalaxia`
 ![BTC QR](./btc-qrcode.png)
+---
