@@ -40,7 +40,7 @@ $ Passions    matemática, programação, hacking, corrida, musculação
 │    :: Powered by Caffeine & Segfaults ::       │ 
 └────────────────────────────────────────────────┘
 ```
-```text
+```cpp
 /*
 ___. (う-´)▄︻デ═══一*++                                          
 \_ |______________     _________      __ __  ______
