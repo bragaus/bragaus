@@ -1,4 +1,4 @@
-### ⛓️ Percursor do movimento AnarquismoWeb3 🏴‍☠️
+### ⛓️ Percursor do movimento AnarquismoWeb3 🏴‍☠️🧬💻
 
 ```bash
 $ Name        Matheus Braga Almeida
