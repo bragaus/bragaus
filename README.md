@@ -2,7 +2,7 @@
 
 ```bash
 $ Name        Matheus Braga Almeida
-$ Uptime      28 years, 00 days, 7 hrs, 7 mins お誕生日おめでとう
+$ Uptime      28 years, 00 days, 7 hrs, 7 mins
 $ OS          Gentoo Linux . GNU Guix
 $ Editor      Neovim
 $ Passions    matemática, programação, hacking, corrida, musculação, armas
