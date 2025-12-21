@@ -31,7 +31,7 @@ $ Passions    matemática, programação, hacking, corrida, musculação, armas
 │         [↓↓↓↓↓] Carteiras $₿ [↓↓↓↓↓]           │
 │                                                │  
 │ BTC: 14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa        │
-│ IOTA: 0x63017a130a6afd36193c1ba16644f1ce7a39d320ebb2bc609e4cb6e89989b231 
+│ PIX: 798a54af-488c-4e72-8455-57fe46ea3d5c      │
 └────────────────────────────────────────────────┘
 
 ___. (う-´)▄︻デ═══一*++                                          
