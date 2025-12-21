@@ -1,5 +1,14 @@
 ### ⛓️ アナキズムWeb3 🏴‍☠️🧬💻
 
+```text
+___. (う-´)▄︻デ═══一*++                                          
+\_ |______________     _________      __ __  ______
+| __ \_  __ \__  \   / ___\__  \     |  |  \/  ___/
+| \_\ \  | \// __ \_/ /_/  > __ \    |  |  /\___ \ 
+|___  /__|  (____  /\___  (____  /   |____//____  >
+     \/           \//_____/     \/               \/  
+```
+
 ```bash
 $ Name        マテウス・ブラガ・アルメイダ
 $ Uptime      28 years, 00 days, 7 hrs, 7 mins
@@ -22,6 +31,14 @@ $ Passions    matemática, programação, hacking, corrida, musculação, armas
 ```
 ### ⛓️ Trabalho
 ```text
+├────────────────────────────────────────────────┤
+│ 💥 Quer testar se seu sistema é à prova de bala?     
+│ 🛠️ Precisa melhorar sua segurança com IA?      │
+│ ✉️ Fala comigo: sprtj@protonmail.com           │
+│                                                │  
+│    :: Powered by Caffeine & Segfaults ::       │ 
+└────────────────────────────────────────────────┘
+
 ┌────────────────────────────────────────────────┐
 │       ☕ Apoie com um café cripto ☕          │
 ├────────────────────────────────────────────────┤
@@ -32,20 +49,5 @@ $ Passions    matemática, programação, hacking, corrida, musculação, armas
 │                                                │  
 │ BTC: 14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa        │
 │ PIX: 798a54af-488c-4e72-8455-57fe46ea3d5c      │
-└────────────────────────────────────────────────┘
-
-___. (う-´)▄︻デ═══一*++                                          
-\_ |______________     _________      __ __  ______
-| __ \_  __ \__  \   / ___\__  \     |  |  \/  ___/
-| \_\ \  | \// __ \_/ /_/  > __ \    |  |  /\___ \ 
-|___  /__|  (____  /\___  (____  /   |____//____  >
-     \/           \//_____/     \/               \/  
-
-├────────────────────────────────────────────────┤
-│ 💥 Quer testar se seu sistema é à prova de bala?     
-│ 🛠️ Ou Quer um help pra escalar sua automação com IA? 
-│ ✉️ Fala comigo: sprtj@protonmail.com          │
-│                                                │  
-│    :: Powered by Caffeine & Segfaults ::       │ 
 └────────────────────────────────────────────────┘
 ```  
