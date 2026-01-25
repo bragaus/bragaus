@@ -29,13 +29,12 @@ $ Passions    matemática, programação, hacking, corrida, musculação, armas
 ```
 ### ⛓️ Trabalho
 ```text
-├────────────────────────────────────────────────┤
-│ 💥 Quer testar se seu sistema é à prova de bala?     
-│ 🛠️ Precisa melhorar sua segurança com IA?      │
-│ ✉️ Fala comigo: sprtj@protonmail.com           │
-│                                                │  
-│    :: Powered by Caffeine & Segfaults ::       │ 
-└────────────────────────────────────────────────┘
+├────────────────────────────────────────────────────┤  
+│ 🛠️ Precisa melhorar sua segurança do seu sistema ? │
+│ ✉️ Fala comigo: sprtj@protonmail.com               │
+│                                                    │  
+│    :: Powered by Caffeine & Segfaults ::           │ 
+└────────────────────────────────────────────────────┘
 
 ┌────────────────────────────────────────────────┐
 │       ☕ Apoie com um café cripto ☕          │
