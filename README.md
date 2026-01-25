@@ -1,4 +1,4 @@
-### ⛓️ アナキズムWeb3 🏴‍☠️🧬💻
+### ⛓️ AnarquismoWeb3 🏴‍☠️🧬💻
 
 ```bash
 ___. (う-´)▄︻デ═══一*++                                          
@@ -8,10 +8,10 @@ ___. (う-´)▄︻デ═══一*++
 |___  /__|  (____  /\___  (____  /   |____//____  >
      \/           \//_____/     \/               \/
 
-$ Name        マテウス・ブラガ・アルメイダ
-$ Uptime      28 years, 00 days, 7 hrs, 7 mins
+$ Name        Matheus・Braga・Almeida
+$ Uptime      28 years, 07 days, 7 hrs, 7 mins
 $ OS          Gentoo Linux . GNU Guix
-$ Editor      Neovim
+$ Editor      Vim
 $ Passions    matemática, programação, hacking, corrida, musculação, armas
 ```
 ### 👾 Trilha-rede nas horas vagas
@@ -46,6 +46,5 @@ $ Passions    matemática, programação, hacking, corrida, musculação, armas
 │         [↓↓↓↓↓] Carteiras $₿ [↓↓↓↓↓]           │
 │                                                │  
 │ BTC: 14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa        │
-│ PIX: 798a54af-488c-4e72-8455-57fe46ea3d5c      │
 └────────────────────────────────────────────────┘
 ```  
