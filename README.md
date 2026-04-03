@@ -48,6 +48,6 @@ $ Passions    matemática, programação, hacking, corrida, musculação, armas
 │        ──────────────────────────────          │
 │         [↓↓↓↓↓] Carteiras $₿ [↓↓↓↓↓]           │
 │                                                │  
-│ Lightning: eternityblissful426445@getalby.com  │
+│ PIX: 74289f2a-f558-40d4-8867-aac8f4ec60c2      │
 └────────────────────────────────────────────────┘
 ```  
